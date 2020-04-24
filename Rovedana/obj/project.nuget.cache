@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "81YEKkKR2cWaPb1a0j9OdcP3yONwDTzWAdc1gO4OPPODT9rIc4UcJzhcHsslMUIUAoWp9Kxzba9Y6SGg6qCnjg==",
+  "dgSpecHash": "R/CQGz9xVRoSF0JTOTkLM3eYAcsZW4sc1rPw9w3QTfc0RiSf17sbuisK/Ps4MBvoX+rHaqWZm5JIKVOoivXIGw==",
   "success": true,
   "projectFilePath": "C:\\Users\\okwor\\source\\repos\\Rovedana\\Rovedana\\Rovedana.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\okwor\\.nuget\\packages\\materialdesigncolors\\1.2.4-ci1326\\materialdesigncolors.1.2.4-ci1326.nupkg.sha512",
+    "C:\\Users\\okwor\\.nuget\\packages\\materialdesignthemes\\3.1.1-ci1326\\materialdesignthemes.3.1.1-ci1326.nupkg.sha512"
+  ],
   "logs": []
 }

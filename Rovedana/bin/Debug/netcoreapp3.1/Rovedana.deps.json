@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rovedana/1.0.0": {
+        "dependencies": {
+          "MaterialDesignThemes": "3.1.1-ci1326"
+        },
+        "runtime": {
+          "Rovedana.dll": {}
+        }
+      },
+      "MaterialDesignColors/1.2.4-ci1326": {
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
+            "assemblyVersion": "1.2.4.1326",
+            "fileVersion": "1.2.4.1326"
+          }
+        }
+      },
+      "MaterialDesignThemes/3.1.1-ci1326": {
+        "dependencies": {
+          "MaterialDesignColors": "1.2.4-ci1326"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "3.1.1.1326",
+            "fileVersion": "3.1.1.1326"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rovedana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaterialDesignColors/1.2.4-ci1326": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n9NxcKAdWGzwXPwPIo/1/oCmF0XEchx1fzuCwwjus/L2dECUw+QOz/7yflbIFxn1ZgvURqerHJ7y4Bdi8DYaCw==",
+      "path": "materialdesigncolors/1.2.4-ci1326",
+      "hashPath": "materialdesigncolors.1.2.4-ci1326.nupkg.sha512"
+    },
+    "MaterialDesignThemes/3.1.1-ci1326": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t/bq95B+6G2VRuLsNM9dO9hs4WqlK86T+naorVzKCYfzY4GRjOFI/+rQdKSkX2Z8lDqx2ZH9y3anJ9aa8ScaPw==",
+      "path": "materialdesignthemes/3.1.1-ci1326",
+      "hashPath": "materialdesignthemes.3.1.1-ci1326.nupkg.sha512"
+    }
+  }
+}
