@@ -36,9 +36,9 @@
                 <TextBlock Text="Egahi" VerticalAlignment="Center" FontSize="18"/>
                 <materialDesign:PopupBox Margin="10" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False">
                     <StackPanel Width="150">
-                        <Button Content="Account"/>
-                        <Button Content="Settings"/>
-                        <Button Content="Help"/>
+                        <Button Content="Account" IsEnabled="False"/>
+                        <Button Content="Settings" IsEnabled="False"/>
+                        <Button Content="Help" IsEnabled="False"/>
                         <Separator/>
                         <Button x:Name="ButtonPopUpQuit" Content="Quit" Click="ButtonPopUpQuit_Click"/>
                     </StackPanel>
